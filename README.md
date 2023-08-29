@@ -1,1 +1,2 @@
-My first readme
+My first readme file
+Leanrning the git pull command
